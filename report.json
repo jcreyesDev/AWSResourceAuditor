@@ -1,0 +1,17 @@
+{
+    "Account Info": {
+        "Account": "897722688072",
+        "UserId": "AIDA5CBDREJEL2DBFFJCF",
+        "Arn": "arn:aws:iam::897722688072:user/jcreyescloud"
+    },
+    "Buckets": [
+        {
+            "Bucket Name": "jcreyescloud-audit-test-01",
+            "Location": "eu-north-1"
+        },
+        {
+            "Bucket Name": "jcreyescloud-audit-test-02",
+            "Location": "us-east-1"
+        }
+    ]
+}
